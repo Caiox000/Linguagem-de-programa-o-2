@@ -4,8 +4,8 @@
 
 int main(){
   printf("Mackenzie - FCI \n");
-  printf("Algoritmo e ");
-  printf("Prog. II\n");
+  printf("Ciencia da computacao\n ");
+  printf("Algoritmo e Prog. II\n");
 
   return 0;
 }
