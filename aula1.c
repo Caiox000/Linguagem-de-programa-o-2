@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 int main(){
-  printf("Mackenzie - FCI \n");
+  printf("Mackenzie - FCI - 1970 \n");
   printf("Ciencia da computacao\n ");
   printf("Algoritmo e Prog. II\n");
 
